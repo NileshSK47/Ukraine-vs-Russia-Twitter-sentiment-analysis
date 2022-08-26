@@ -5,3 +5,5 @@ Also, refer this link link to view plotly graphs which are not properly visible 
 
 Link: https://nbviewer.org/github/NileshSK47/Ukraine-vs-Russia-Twitter-sentiment-analysis/blob/main/Project%20Final.ipynb
 
+
+Link for the dataset: https://www.kaggle.com/datasets/foklacu/ukraine-war-tweets-dataset-65-days
